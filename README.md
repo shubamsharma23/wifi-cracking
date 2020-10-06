@@ -1,4 +1,5 @@
 # Wi-Fi Cracking
+notes: https://drive.google.com/file/d/1EPTdMQdne7AtHav3zxNjYxsnFq39a-QB/view?usp=drivesdk
 
 Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and [Aircrack-ng](http://aircrack-ng.org/)/[Hashcat](http://hashcat.net/). 
 
